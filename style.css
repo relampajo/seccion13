@@ -1,0 +1,46 @@
+/*
+colores de mi sitio web
+primary: #FDFDBD
+secundary: #C8FFD4
+light: #C8FFD4
+info: #B1AFFF
+*/
+
+h1{
+    color: #b8e8fc;
+}
+
+.bg-primary{
+    background-color: #fdfdbd;
+}
+
+.text-light{
+    color: #b8e8fc;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-secondary{
+    color: #c8ffd4;
+}
+.width-100{
+    width: 100px;
+}
+
+.bg-info{
+    background-color: #b1afff;
+}
+
+.text-primary{
+    color: #fdfdbd;
+}
+
+.text-white{
+    color: white;
+}
+.text-primary{
+    color: #fdfdbd;
+}
